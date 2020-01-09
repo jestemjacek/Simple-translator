@@ -1,0 +1,31 @@
+pfeffer;pieprz
+tur;drzwi
+suppe;zupa
+dokumentieren;dokument
+buro;gabinet
+flasche;butelka
+zwei;dwa
+drei;trzy
+fahrrad;rower
+rot;czerwony
+apfel;jablko
+tablette;tabletka
+tee;herbata
+zitrone;cytryna
+reisepass;paszport
+grun;zielony
+salz;sol
+ein;jeden
+violett;fioletowy
+lampe;lampa
+sandwich;kanapka
+bleistift;olowek
+schrank;szafka
+wasser;woda
+arzt;lekarz
+farbe;kolor
+teppich;dywan
+kaffee;kawa
+regenwald;las deszczowy
+fenster;brak tłumaczenia
+vorhang;zaslona
