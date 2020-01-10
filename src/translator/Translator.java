@@ -16,6 +16,7 @@ import java.util.Scanner;
 /**
  *
  * @author Jacek
+ *
  */
 public class Translator {
 
