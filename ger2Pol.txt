@@ -29,3 +29,4 @@ kaffee;kawa
 regenwald;las deszczowy
 fenster;brak tłumaczenia
 vorhang;zaslona
+salz;sol
